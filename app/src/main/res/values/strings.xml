@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Logica app</string>
+    <string name="conjunction_and">conjunction (AND)</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="a_b">A^B</string>
+    <string name="t1">T</string>
+    <string name="t2">T</string>
+    <string name="t3">T</string>
+    <string name="f1">F</string>
+    <string name="f2">F</string>
+    <string name="f3">F</string>
+    <string name="f">F</string>
+    <string name="t">T</string>
+    <string name="t4">T</string>
+    <string name="t5">T</string>
+    <string name="f4">F</string>
+    <string name="f5">F</string>
+    <string name="t6">T</string>
+    <string name="F6">F</string>
+    <string name="f7">F</string>
+    <string name="Correct">The correct number of answers is: %d </string>
+
+</resources>
